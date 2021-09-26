@@ -82,9 +82,9 @@
           renderer: {
             image: function(src, title, alt) {
               console.log("wk imag src:",src);
-              if (isrelative(src)) {
-                src = dirname(window.location.hash.substring(1)) + "/" + src;
-              }
+              //if (isrelative(src)) {
+                //src = dirname(window.location.hash.substring(1)) + "/" + src;
+              //}
               const exec = /=\s*(\d*(?:px|em|ex|ch|rem|vw|vh|vmin|vmax|%))\s*,*\s*(\d*(?:px|em|ex|ch|rem|vw|vh|vmin|vmax|%))*\s*$/.exec(
                 title
               );
