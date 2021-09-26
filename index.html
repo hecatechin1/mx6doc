@@ -48,7 +48,7 @@
       function dirname(path) {
         console.log('path:',path)
         const p = path.lastIndexOf("/");
-        const name = p == -1 ? "" : path.slice(0, p);
+        const name = p == -1 ? "" : path.slice(1, p+1);
         console.log('dirname:',name)
         return name;
       }
@@ -83,7 +83,7 @@
             image: function(src, title, alt) {
               console.log("wk imag src:",src);
               if (isrelative(src)) {
-                src = dirname(window.location.hash.substring(1)) + "/" + src;
+                src = dirname(window.location.hash.substring(1)) + src;
               }
               const exec = /=\s*(\d*(?:px|em|ex|ch|rem|vw|vh|vmin|vmax|%))\s*,*\s*(\d*(?:px|em|ex|ch|rem|vw|vh|vmin|vmax|%))*\s*$/.exec(
                 title
