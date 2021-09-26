@@ -1,1 +1,2 @@
-# mx6doc
+Welcome to Maxthon Help
+

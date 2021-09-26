@@ -1,0 +1,2 @@
+# mxdoc
+Maxthon Documentation
