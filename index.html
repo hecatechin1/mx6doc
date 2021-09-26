@@ -46,10 +46,10 @@
         return href.slice(4) != "http";
       }
       function dirname(path) {
-        //console.log('path:',path)
+        console.log('path:',path)
         const p = path.lastIndexOf("/");
         const name = p == -1 ? "" : path.slice(0, p);
-        //console.log('dirname:',name)
+        console.log('dirname:',name)
         return name;
       }
       // 4. Docsify Configuration
@@ -82,9 +82,9 @@
           renderer: {
             image: function(src, title, alt) {
               console.log("wk imag src:",src);
-              //if (isrelative(src)) {
-                //src = dirname(window.location.hash.substring(1)) + "/" + src;
-              //}
+              if (isrelative(src)) {
+                src = dirname(window.location.hash.substring(1)) + "/" + src;
+              }
               const exec = /=\s*(\d*(?:px|em|ex|ch|rem|vw|vh|vmin|vmax|%))\s*,*\s*(\d*(?:px|em|ex|ch|rem|vw|vh|vmin|vmax|%))*\s*$/.exec(
                 title
               );
