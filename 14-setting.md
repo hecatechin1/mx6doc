@@ -26,7 +26,7 @@ Maxthon 6 supports the Direct URL function as before. Select the **Advanced** ta
 
 ## Cameras & Mics
 
-When you use Maxthon6 to open a website that requires a microphone or a camera,you will be prompted to select allow or block.
+When you use Maxthon to open a website that requires a microphone or a camera,you will be prompted to select allow or block.
 
 - Allow: when you go to the websites in this list, this web page can start recording. If you are browsing another tab or using other software, this site will not be able to start recording.
 - Block: some websites will not work properly after being blocked. For example, you will not be able to participate in a video conference on the web if the conference site you use is blocked.

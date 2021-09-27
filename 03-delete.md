@@ -1,4 +1,4 @@
-# Clearing and Resetting Data
+Maxthon# Clearing and Resetting Data
 
 You are in total control of your browser data. You can clear all browsing histories and data or only for selected dates. You could also export the data for backups.
 

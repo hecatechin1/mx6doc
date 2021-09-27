@@ -6,13 +6,13 @@
 
 ## The extension pop-up window
 
-Maxthon6 supports chromium standard extensions. Click the extension button in the toolbar![](zh/images/12-1.png) to view the list of currently using extensions.
+Maxthon supports chromium standard extensions. Click the extension button in the toolbar![](zh/images/12-1.png) to view the list of currently using extensions.
 ![](images/addons.gif)
 
 - Pin/Unpin: Click the pin button![](zh/images/12-3.png) to show/hide the extension from toolbar;
 - Extension menu: right-click the extension icon on toolbar or the more button![](zh/images/03-2.png) beside the extension name in the pop-up window to open the extension menu;
 - Manager: Click to go to the extension manager;
-- More: Click to go to the Maxthon6 extension center.
+- More: Click to go to the Maxthon extension center.
 
 ## Shut down and delete useless extensions
 

@@ -36,7 +36,7 @@ Right-click on the bookmark bar for quick access to:
 
 ## Switching between bookmark menu and bookmark button
 
-Other than the bookmark bar, Maxthon6 supports two methods to access bookmark quickly: use the bookmarks menu under the main menu to show the bookmark button. Once the bookmark button appears at the address bar, the bookmarks option in the main menu will be hidden.
+Other than the bookmark bar, Maxthon supports two methods to access bookmark quickly: use the bookmarks menu under the main menu to show the bookmark button. Once the bookmark button appears at the address bar, the bookmarks option in the main menu will be hidden.
 
 ![](images/07-03.gif "=85%, 85%")
 
@@ -52,7 +52,7 @@ Other than the bookmark bar, Maxthon6 supports two methods to access bookmark qu
    - Export bookmarks
    - Sort by name: This sorting will affect the order of all the bookmarks
 
-## Guide to use bookmark feature in Maxthon6
+## Guide to use bookmark feature in Maxthon
 
 #### Add a bookmark
 
@@ -130,7 +130,7 @@ Go to bookmark manager and click on the button right beside the bookmark and sel
 
 #### Bookmark folder
 
-You could organize your bookmarks by creating folders in the Maxthon6 browser.
+You could organize your bookmarks by creating folders in the Maxthon browser.
 
 ![](images/07-19.gif "=85%, 85%")
 

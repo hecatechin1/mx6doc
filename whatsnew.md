@@ -1,6 +1,6 @@
-# What's new in Maxthon 6?
+# What's new in Maxthon 6 ?
 
-## Welcom to Maxthon 6!
+## Welcom to Maxthon 6
 
 The brand new Maxthon 6 is available now! Faster, smoother, snappier, and classic as always. As the first blockchain browser in the world, Maxthon 6 presents:
 

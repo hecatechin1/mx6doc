@@ -2,7 +2,7 @@
 
 ## Open a new tab
 
-1. At the top of the Maxthon6 window, you could left-click the plus button![](zh/images/04-1.png) to open [**New Tab**], or right-click to [ **Paste and open**] link.
+1. At the top of the Maxthon window, you could left-click the plus button![](zh/images/04-1.png) to open [**New Tab**], or right-click to [ **Paste and open**] link.
 
 2. Press the “**Ctrl**” button on your keyboard and left-click on the link simultaneously in a website to open the link in a new tab. Alternatively, you could right-click on the link and select [**Open link in new tab**]
 
@@ -65,7 +65,7 @@ Drag and drop the thumbnail to a different position within the page.
 
 #### Use the folder to organize thumbnails
 
-Maxthon6 new quick access page allows you to organize thumbnails using folders.
+Maxthon new quick access page allows you to organize thumbnails using folders.
 
 1. Create a new folder
 
@@ -151,7 +151,7 @@ In the case if you accidentally close a tab or window, you could restore it via 
 
 ## Force close non-responding tab or function
 
-If a tab, a window, or an extension is not responding, you could use Maxthon6 task manager to close it.
+If a tab, a window, or an extension is not responding, you could use Maxthon task manager to close it.
 
 ![](images/04-15.png "=85%, 85%")
 

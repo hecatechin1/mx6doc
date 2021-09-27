@@ -1,4 +1,4 @@
-# Open Payment Protocol Docs <small>0.7</small>
+MaxthonMaxthon# Open Payment Protocol Docs <small>0.7</small>
 
 Changelog
 
