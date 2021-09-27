@@ -2,13 +2,13 @@
 
 ## Search the Web on Maxthon 6
 
-#### - Universal search function
+#### Universal search function
 
 The address bar of the Maxthon 6 browser not only access URLs but can also search keywords. It will work using the default search engine.
 
 1. Search suggestions
 
-It will prompt the search suggestions under the address bar. The suggestions are from your browsing history, bookmarks, and the search engine's fuzzy reccommendations. Some of the suggestions can be deleted by deleting the browsing data.
+To help you search, maxthon will show search suggestions under the address bar. The suggestions are from your browsing history, bookmarks, and the search engine's reccommendations. Some of the suggestions can be deleted by deleting the browsing data.
 
 ![](images/05-00.png "=85%, 85%")
 
@@ -22,7 +22,7 @@ Go to **Settings**> **General**> **Search engine**, click the down arrow to chan
 
 Click **Manage engines** to add, edit or delete the search engines.
 
-#### - Search within a webpage
+#### Search within a webpage
 
 ![](images/05-02.png "=85%, 85%")
 
@@ -36,7 +36,7 @@ Matches appear highlighted in yellow. You can see where all the matches are loca
 
 Tip: Copy the keyword, then press the keyboard shortcut Ctrl+F; the keyword will fill in the search bar and search automatically
 
-#### - Search selected words or phrases quickly
+#### Search selected words or phrases quickly
 
 You can also search the words or phrases on the webpage
 
@@ -48,17 +48,17 @@ You can also search the words or phrases on the webpage
 
 ## Mute Webpage
 
-You can mute the webpage
+Sometimes you may not want to hear the sound from a webpage. You can **Mute** the webpage.
 
 ![](images/05-04.png "=85%, 85%")
 
 1. Right-click on the tab and choose Mute site; all sites belonging to the root domain will be muted.
 
-The setting mute site is worked on the current site. It won’t be canceled by restarting the browser or closing the site unless you right-click on the tab to unmute it or cancel it by the global mute.
+The mute state of the site is saved. It won’t be cancelled by restarting the browser or closing the site unless you right-click on the tab to unmute it or cancel it by the global mute.
 
 2. Click the global mute button![pic](zh/images/05-6.png) on the status bar to switch the mute status.
 
-The global mute setting is working on the whole browser. If you enable the global mute, all tabs will be muted, and it only can be canceled by canceling the global mute manually.
+The global mute setting is working on the whole browser. If you enable the global mute, all tabs will be muted, and it only can be canceled by disabling the global mute manually.
 
 ## Refresh Page
 
@@ -76,11 +76,11 @@ Maxthon 6 supports the following refresh methods:
 - Refresh all: refresh all tabs of the current window
 - Auto-refresh: customize the refresh frequency. The page can auto-refresh every “x seconds” to refresh automatically
 
-## Webpage Zoom, Full Screen, Split Screen
+## Zoom the webpage, Go Full Screen, Split Screen
 
 ![](images/05-06.png "=85%, 85%")
 
-- You can zoom in/out on the page, full/split the screen when browsing the webpage.
+- You can zoom in/out on the page, go full/split the screen when browsing the webpage.
   - Press the shortcut“Ctrl and +” to zoom in
   - Press the shortcut “Ctrl and –“ to zoom out
   - Press the shortcut “Ctrl+0” to restore the page to 100%

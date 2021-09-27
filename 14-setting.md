@@ -11,13 +11,13 @@ Tip: the most comfortable font size for online reading is 13 ~ 14, which is the 
 ## Language
 
 Maxthon 6 supports 55 languages. Select the **General** tab on the settings page, find the **Language** section, and switch the current browser language there. (mx://settings/)
-You can add backup languages to the language list through _add language_, and quickly switch languages through the drop-down list above.
+You can add backup languages to the language list through **add language**, and quickly switch languages through the drop-down list above.
 
 ![image](images/14-01.png "=85%,85%")
 
 ## Direct URL
 
-Maxthon 6 supports the Direct URL function as before. Select the **Advanced** tab and find the Direct URL region.(mx://settings/advance)
+Maxthon 6 supports the Direct URL function as before. Select the **Advanced** tab and find the Direct URL.(mx://settings/advance)
 
 ![image](images/14-02.png "=85%,85%")
 
@@ -33,7 +33,7 @@ When you use Maxthon6 to open a website that requires a microphone or a camera,y
 
 #### Modify Permissions
 
-Select the **Advanced** tab in the setting page, find the Privacy and security region, click the site settings button at the bottom of this region and modify the permissions.(mx://settings/advance)
+Select **Advanced** -> **Privacy and security**, click the site settings button at the bottom of this region and modify the permissions.(mx://settings/advance)
 
 ![image](images/14-03.png "=85%,85%")
 
@@ -41,6 +41,6 @@ Select the **Advanced** tab in the setting page, find the Privacy and security r
 
 (mx://settings/advance)
 If your system disk (commonly C drive) has not had enough spare space, and the system speed is generally slow, you can optimize it by modifying the browser cache path.
-Select the **Advanced** tab in the setting page, find the **Cache path** region at the bottom, click **Modify** to set a new folder in another disk for browser cache.
+Go to **Advanced**->**Cache path**, click **Modify** to set a new folder in another disk for browser cache.
 
 ![image](images/14-04.png "=85%,85%")

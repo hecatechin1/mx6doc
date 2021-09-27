@@ -1,8 +1,8 @@
-# Other functions
+# Other Features
 
-## Screen snap in Maxthon 6
+## Screen snap
 
-Activate the screen snap function by clicking the snap button![](zh/images/13-1.png) in the upper right corner.
+Activate the screen snap function by clicking the snap button![](zh/images/13-1.png) in the toolbar.
 
 ![](images/13-00.png)
 
@@ -11,12 +11,14 @@ Maxthon 6 provides you two ways to snap：
 1. **Snap screen** select the area on the screen you need to snap by a box selecting tool.
 2. **Snap page** equals "saving the web page as a picture"
 
+> You can press **Ctrl+F1** to access **Snap Screen** feature
+
 ## Night mode
 
 Activate the night mode by clicking the moon button![](zh/images/13-3.png). Exit the night mode by clicking it again.
 ![](images/13-01.png "=85%, 85%")
 
-Right-click the night mode to customize the night mode mask:
+Right-click the night mode to customize the night mode:
 
 - Schedule: Set the night mode automatically enabled within a certain time range every day;
 - Brightness: adjust the brightness of the mask;

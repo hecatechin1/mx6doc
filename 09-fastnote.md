@@ -2,7 +2,7 @@
 
 ![logo](images/quick_notes.jpg)
 
-**Write down great ideas or anything worth to note while browsing the web.**
+## **Write down great ideas or anything worth to note while browsing the web**
 
 > **QuickNote** is part of Maxnote  
 > Press **Ctrl+G** for quick access
@@ -14,7 +14,7 @@ QuickNote is a lite version of Maxnote, allowing users to note down contents eas
 ![](images/09-00.png)
 
 1. New note: Click on the plus button![](zh/images/09-3.png) at the bottom left corner to start a new note.
-2. Listing of notes: QuickNote does not support the creation of a new folder. All the notes saved in the specific folder will be reflected in chronological order.
+2. Listing of notes: QuickNote shows all notes saved in a specific folder of **Maxnotes** (Sub folder will not be displayed). You can change the folder through QuickNote menu.
 3. Notes editing: Add or edit content and pictures easily and information will be synced automatically. If you login to the Maxthon cloud account, QuickNote will be automatically synced with Maxnote.
 
 ## Browsing of Quicknote
@@ -33,6 +33,5 @@ QuickNote is a lite version of Maxnote, allowing users to note down contents eas
 Click on the ![](zh/images/09-8.png) button located at the bottom left corner to expand the menu and you could select the following:
 
 - New note: Create a new note;
-- Change folder: Select from the list of folders stored in Maxnote to save your QuickNote. Upon selection, all the sub-folders or notes in that particular folder will be arranged and shown in chronological order;
+- Change folder: Select from the list of folders stored in Maxnote to switch your QuickNote. Upon selection, all the sub-folders or notes in that particular folder will be arranged and shown in chronological order;
 - View trash: Maxnote trash folder will be opened in a new tab in the current browser window;
-- Viewing of individual QuickNote: Menu will reflect all the QuickNotes saved to date, allowing users to select and view the note with a click.

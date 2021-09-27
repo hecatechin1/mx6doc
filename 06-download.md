@@ -1,10 +1,10 @@
 # Downloading Files
 
-To save a file or image on your computer or device, download it. The file will be saved in your default download location.
+To save a file or image on your computer or device, you can use the downloader. The file will be saved in your default download location.
 
 ## Download Manager
 
-Click on the download link or right-click on the file and choose to Save as. You can customize the download file name and the download location in the pop-up download manager window. The file will begin to download after clicking Confirm. When the download finishes, it will display the number on the bottom right of the download icon.
+Click on the download link or right-click on the file and choose to Save as. You can customize the download file name and the download location in the download manager window. The file will begin to download after clicking Confirm. When the download finishes, a number will be displayed on the bottom right of the downloader icon.
 
 ![](images/06-00.png)
 
@@ -18,15 +18,15 @@ Manage the download task in the download manager:
    - Delete the download record and file
 5. Create a new download task: at the top of the download manager, click the Add button ![pic](zh/images/06-5.png)
 6. Clear all: at the top of the download manager, you can click the Delete button ![pic](zh/images/06-6.png) to choose:
-   - Clear all records
-   - Clear invalid
-   - Clear all records and files
+   - Clear all records: delete all items in the list (but not the file downloaded).
+   - Clear invalid: delete all invalide items
+   - Clear all records and files: delete all items in the list and coresponding files.
 7. Search download records: at the top of the download manager, click the Search button ![pic](zh/images/06-7.png), you can enter the keyword to search
 8. Download manager settings: at the top, click the manage button ![pic](zh/images/06-8.png), it will open the download settings page:
 
 ![](images/06-01.png)
 
-If you check Quick download, it won’t pop up the download window to confirm the download task manually. It will download the file directly to the download location. The download location can be customized by yourself.
+If **Quick download** is checked, it will download the file directly to the download location without pop up the download window to confirm the download task. The download location can be customized.
 
 ## Other Download Settings
 

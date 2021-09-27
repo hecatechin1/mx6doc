@@ -6,7 +6,7 @@ While browsing through web pages, you could easily bookmark the website by click
 
 ![](images/07-00.gif "=85%, 85%")
 
-After the bookmark is added successfully, the bookmark icon on the address bar will be reflected. By clicking on the icon![](zh/images/07-2.png) again you could perform the edit or remove function.
+After the bookmark is added successfully, the bookmark icon on the address bar will be updated. By clicking on the icon![](zh/images/07-2.png) again you could edit or remove the bookmark.
 
 ![](images/07-01.gif "=85%, 85%")
 
@@ -52,7 +52,7 @@ Other than the bookmark bar, Maxthon6 supports two methods to access bookmark qu
    - Export bookmarks
    - Sort by name: This sorting will affect the order of all the bookmarks
 
-## Guide to using bookmark feature in Maxthon6
+## Guide to use bookmark feature in Maxthon6
 
 #### Add a bookmark
 
@@ -94,7 +94,7 @@ Right-click on the bookmark folder that is on the bookmark bar, bookmark menu, o
 
 1. Edit current page’s bookmark
 
-When the current page is saved to bookmark, the address bar will reflect the icon![](zh/images/07-2.png). Click on the icon![](zh/images/07-2.png) again and you will be able to edit the bookmark’s name and folder.
+When the current page is saved to bookmark, the address bar will update the icon![](zh/images/07-2.png). Click on the icon![](zh/images/07-2.png) again and you will be able to edit the bookmark’s name and folder.
 
 ![](images/07-13.png "=85%, 85%")
 
@@ -112,7 +112,7 @@ Go to bookmark manager and click on the button, select [**Edit** ] to edit the b
 
 1. Deleting the current page bookmark
 
-When the current page has been bookmarked, the icon on the address bar will reflect as. Click on this icon again and you will be able to remove this bookmark.
+When the current page has been bookmarked, clicking on this icon again and you will be able to remove this bookmark.
 
 ![](images/07-16.png "=85%, 85%")
 
@@ -138,9 +138,9 @@ Create a new folder by right-clicking on the bookmark bar or in the bookmark man
 
 ![](images/07-20.png "=85%, 85%")
 
-\*Note: When a folder is deleted, all the bookmarks in the folder will be deleted as well.
+> Note: When a folder is deleted, all the bookmarks in the folder will be deleted as well.
 
-#### Organizing the sequence of bookmarks
+#### Organizing the order of bookmarks
 
 1. Drag and drop
 

@@ -28,7 +28,7 @@ You could open a few browser windows from desktop:
 
 ## Customizing quick access thumbnail
 
-#### -Edit thumbnail
+#### Edit thumbnail
 
 1. Add to the new tab page
 
@@ -37,10 +37,10 @@ You could open a few browser windows from desktop:
 ![](images/04-03.png "=85%, 85%")
 
 - You could right-click on the tab and select [**Add to the new tab page** ] ;
-- Or go under a new tab and click the [ **Add** ]  button![](zh/images/04-5.png), select [**Custom**] at the top of the section, to customize header, website URL, and how the thumbnail can be reflected:
-    - **Hot**: use the pre-selected picture from the gallery. If the URL does not have a picture assigned, the color block will be selected automatically.
+- Or go to new tab and click the [ **Add** ]  button![](zh/images/04-5.png), select [**Custom**] at the top tab to input title, website URL, and how the thumbnail shall be created:
+    - **Hot**: use the pre-selected picture from the gallery. If the URL does not have a picture assigned, it will fall back to color block mode.
     - **Screenshot**: use the snapshot of the website as the thumbnail
-    - **Color block**: website title + color selected will be reflected as thumbnail
+    - **Color block**: website title + color will be used as thumbnail
 
 
 2. Managing quick access thumbnail
@@ -56,45 +56,45 @@ You could open a few browser windows from desktop:
     * Open in a new window: URL will be open in a new window
     * Open in the private window: URL will be open in a new/current private window selected.
 
-3.Arranging thumbnail within the same window
+3.Arranging thumbnails
 
-Click and drag the thumbnail to a different position within the page. When the thumbnail starts moving, you could place it in a space.
+Drag and drop the thumbnail to a different position within the page. 
 
 ![](images/04-06.png "=85%, 85%")
 
 
-#### -Using a folder to organize thumbnails
+#### Use the folder to organize thumbnails
 
-Maxthon6 new quick access page allows you to organize your thumbnails into folders.
+Maxthon6 new quick access page allows you to organize thumbnails using folders.
 
 1. Create a new folder
 
 ![](images/04-07.gif "=85%, 85%")
 
-Click and drag one thumbnail to the other. Once the background appears a dark color, release the click and a new folder will be created.
+Click and drag one thumbnail to another. Once the background appears darker, drop it and a new folder will be created.
 
 2. Dragging thumbnail out of a folder
 
 ![](images/04-08.gif "=85%, 85%")
 
-Click and drag the thumbnail out from the folder to the main page and you could place the thumbnail at the desired space.
+Drag and drop the thumbnail out the folder to the main page.
 
-*Note: When the last thumbnail from the folder has been dragged out, the folder will be automatically deleted. Maxthon6 does not support the retaining of blank folders.
+*Note: When the last thumbnail from the folder has been dragged out, the folder will be deleted. 
 
  
 
-#### -Quick access page setting
+#### Quick access page setting
 
-You could customize the quick access page background by clicking on the cog icon ![](zh/images/04-12.png) at the bottom right corner to go into [ **Settings** ]. Upon entering the settings, you could choose the background picture or click on the plus icon![](zh/images/04-13.png) to add a background picture from your own desktop.
+You could customize the quick access page background by clicking on the cog icon ![](zh/images/04-12.png) at the bottom right corner to go into [ **Settings** ]. In settings, you could choose the background picture or click on the plus icon![](zh/images/04-13.png) to add a background picture from the computer.
 
 ![](images/04-09.png "=85%, 85%")
 
 
-## Arranging and Locking of tabs
+## Arranging and Locking tabs
 
-1. You could drag a tab to a different position along the top of the browser window if you wish to reorder the tabs within the same window.
+1. You could drag-n-drop a tab to a different position to reorder it within the same window.
 
-2. Right-click on the tab and select [ **Lock Tab** ] from the menu and you will see the lock icon ![](zh/images/04-15.png) appearing on the tab. The locked tab will not be closed in this situation. Right-click on the tab again and select [ **Unlock tab**], the tab will be unlocked. 
+2. Right-click on the tab and select [ **Lock Tab** ] from the menu and you will see the lock icon ![](zh/images/04-15.png) appearing on the tab. The locked tab can not be closed unless it's unlocked. Right-click on the tab again and select [ **Unlock tab**], the tab will be unlocked. 
 
 ![](images/04-10.png "=85%, 85%")
 
@@ -109,7 +109,7 @@ You could organize your tabs by
 ![](images/04-11.gif "=85%, 85%")
 
 - Select a few tabs ( press Shift button to select more tabs ), right-click and select [ **Move tab to incognito window** ], [ **Move tab to new group** ];
-- Click on the group tab to collapse the tabs and the top of the browser window will only reflect the group tab name or color selected. If you wish to expand the tabs, just click on the group tab name or color again.
+- Click on the group tab to collapse the tabs and the top of the browser window will only show the group name and color selected. If you wish to expand the tabs, just click on the group tab name or color again.
 2. Edit group tab
 
 ![](images/04-12.png "=85%, 85%")
@@ -127,10 +127,10 @@ You could organize your tabs by
 
 In the case if you accidentally close a tab or window, you could restore it via the following:
 
-1. Click on the  button on the address bar, or use the shortcut [ Ctrl + Shift + T ] to open the last closed page;
-2. Right-click on the  button and you will be able to see the list of the closed tabs;
-3.  Right-click on the tab and select [ Restore last closed tab ];
-4. Click on the button at the upper right corner to open the menu, move the cursor to [ History ], click on [ Recently closed ] can also restore recently closed tabs or windows.
+1. Click on the **Undo** button on the address bar, or use the shortcut [ Ctrl + Shift + T ] to open the last closed page;
+2. Right-click on the **Undo**  button and you will be able to see the list of the closed tabs;
+3.  Right-click on the **Undo** tab and select [ Restore last closed tab ];
+4. Click on the **Menu** button at the upper right corner to open the menu, move the cursor to [ History ], click on [ Recently closed ] can also restore recently closed tabs or windows.
 
  
 
@@ -149,9 +149,9 @@ In the case if you accidentally close a tab or window, you could restore it via 
 
  
 
-## Force closing page or function
+## Force close non-responding tab or function
 
-In the scenario, if tab, window, or extension are not working as intended, you could use Maxthon6 task manager to force close the function.
+If a tab, a window, or an extension is not responding, you could use Maxthon6 task manager to close it.
 
 ![](images/04-15.png "=85%, 85%")
 

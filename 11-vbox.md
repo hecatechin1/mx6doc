@@ -2,7 +2,7 @@
 
 ![logo](images/vbox.gif)
 
-**VBox enables the user's blockchain identity**
+## **VBox enables the user's blockchain identity**
 
 ### With VBox <!-- {docsify-ignore} -->
 
@@ -16,7 +16,7 @@ You can
 
 ![](images/11-00.png)
 
-Vbox is a tool for managing blockchain identities. It can help you build encrypted identities on the local device with a simple password. All of the blockchain apps can apply for the signature and the BSV payment via Vbox.
+Vbox is a tool for managing blockchain identities. It can help you build encrypted identities on the local device with a simple password. All of the blockchain apps can apply for the signature and the payment via Vbox.
 
 ## Activate Vbox to Get the Vbox ID
 
@@ -28,41 +28,38 @@ On the Vbox startup page, click Activate now to customize the ID remark and pass
 
 ## Apply for the Free NBdomain
 
-NBdomain can bind to any address, and it is a universal electronic passport on the blockchain. It can work as a stable identity for login, transaction, transfer, and create a short web link for the blockchain's content.
-
-For example, you use NBdomain in the transactions, but you need to change the wallet payment collector address; you needn’t notify the traders one by one. Just change the address to which the NBdomain is bound or change the registered address on other third parties.
+NBdomain is a blockchain domain name and a global ID. More info of NBdomain can be found at https://nbdomain.com and https://medium.com/@nbdomain . 
 
 ![](images/11-02.png)
 
 Apply for NBdomain:
 
-- Vbox users can apply for the NBdomain for free once. Verify the phone number to get the free NBdomain.
-- You can click Bind to NBdomain on the registration success page or apply it on the top of Vbox > Me.
-  Note: One Vbox Cloud account can apply for the free NBdomain only once. But one Vbox account can have multiple Vbox IDs.
+- Vbox users can apply for the NBdomain for free with a phone number.
+- You can click **Bind to NBdomain** on the registration success page or apply it on the from Vbox > Me.
 
 ## Bind NBdomain & Personalize NBdomain
 
-One Vbox ID can bind multiple NBdomains, and you can specify one of them as the external card in Vbox. To manage it, you can open ME > Bind to an NBdomain to view and customize. Modifying the bound NBdomain will affect the external display card.
+One Vbox ID can bind multiple NBdomains, and you can choose one of them to use as the identity name. To manage it, you can open ME > Bind to an NBdomain to view and customize. 
 
 ![](images/11-03.png)
 
-The free NBdomain is a string of characters. If you want to apply for more custom NBdomains, click Apply for more custom super domains on Bind to an NBdoamin. You can also log in to https://app.nbdomain.com/ to register.
+The free NBdomain is a string of numbers. If you want to apply for personalized NBdomains, click **Apply for more super domains** on [Bind to an NBdoamin] page. You can also log in to https://app.nbdomain.com/ to register.
 
 ![](images/11-04.png)
 
 Search the domain you want to register, and if it is not already registered, you can apply for it.
 
-Note: The newly purchased domain name will be bound to the wallet address you use for payment. If you want to modify it, you can execute Transfer in the NBdomain personal backend after the successful registration.
+Note: The newly purchased domain name will be bound to the wallet address you use for payment. If you want to modify it, you can use the **Transfer** command in the NBdomain manage page after the successful registration.
 
 ## Change NBdomain Avatar
 
-Vbox ID cannot customize the avatar, but it can bind to an NBdomain, then customize the NBdomain avatar and display it in the external display card.
+You can set a Avatar of a NBdomain and It will be used as the avatar of your Vbox ID.
 
 ![](images/11-05.png)
 
 Open ME, then click the domain to customize the avatar.
 
-Note: This operation affects NBdomain storing information in the blockchain and requires a little miner fee. It will be deducted directly from the current account after clicking on the confirmation. The insufficient balance will cause the modification to fail.
+Note: This operation will storing information on the blockchain and requires a little miner fee. It will be deducted directly from the current account after confirmation. The insufficient balance will cause the modification to fail.
 
 ## Manage Digital Assets
 
@@ -116,7 +113,7 @@ Vbox can be used for identification and signature, and it can be seen as a priva
 
 ![](images/11-12.png)
 
-Note: When authorizing, check Add to auto-sign-in list; then you needn’t authorize manually when you execute authorization next time. Vbox will execute the authorization for you automatically in the background.
+Note: When authorizing, check Add to auto-sign-in list; then Vbox will do the authorization for you automatically in the background in the future for such dApp.
 
 ## Use Vbox Payment
 
@@ -169,7 +166,7 @@ For avoiding data loss, Vbox provides the data sync function.
 
 ## Import/Export Vbox Local Data
 
-Besides using the cloud backup function, you can also maintain data security by importing/exporting local data from Vbox. Open Vbox > Me > Settings, select Export local data to export all identity data (.v) files; select Import local data to open the identity data (.v) files saved on the local, and the imported data will be merged with the local data to protect data security if there is any difference.
+Besides using the cloud backup feature, you can also maintain data security by importing/exporting local data from Vbox. Open Vbox > Me > Settings, select Export local data to export all identity data (.v) files; select Import local data to open the identity data (.v) files saved on the local, and the imported data will be merged with the local data to protect data security if there is any difference.
 
 ![](images/11-19.png)
 
@@ -177,6 +174,6 @@ Besides using the cloud backup function, you can also maintain data security by 
 
 ![](images/11-20.png)
 
-Open Vbox > Me, click Delete all local data, it will clear all local data and restore the Vbox to the unactivated status. Local data cannot recover after deletion, and please use this function carefully.
+Open Vbox > Me, click Delete all local data, it will clear all local data and restore the Vbox to the unactivated status. Local data cannot recover after deletion, and please use this feature carefully.
 
 Note: If you turn on the Vbox Cloud account, it will pop up the window to let you confirm to delete the Cloud data or not; if you check it, the Cloud data will be deleted also. If you uncheck, the account will turn off sync automatically, then clear the local data.
