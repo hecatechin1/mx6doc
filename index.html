@@ -29,7 +29,7 @@
         const url = window.location.href;
         if(language.toLowerCase().slice(0,2)==="zh"&&url.slice(-3)==="/#/")
           setTimeout(()=>{
-            console.log("change")
+            //console.log("change")
             window.location.replace(url +"zh/")
           },500)
           
@@ -46,10 +46,10 @@
         return href.slice(4) != "http";
       }
       function dirname(path) {
-        console.log('path:',path)
+        //console.log('path:',path)
         const p = path.lastIndexOf("/");
         const name = p == -1 ? "" : path.slice(1, p+1);
-        console.log('dirname:',name)
+        //console.log('dirname:',name)
         return name;
       }
       // 4. Docsify Configuration
