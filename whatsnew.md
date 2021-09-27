@@ -1,5 +1,3 @@
-# What's new in Maxthon 6 ?
-
 ## Welcom to Maxthon 6
 
 The brand new Maxthon 6 is available now! Faster, smoother, snappier, and classic as always. As the first blockchain browser in the world, Maxthon 6 presents:
@@ -32,7 +30,7 @@ Maxthon 6 is still on the way to perfection. If you got any problem, please [con
 
 **Thank you for your constant companionship**
 
-## More about new features
+## Exciting New features
 
 #### Support Chrome extensions
 
@@ -84,9 +82,9 @@ For more information, please go to [**Tabs**](04-tab)
 
 Inherited from Maxthon 5, Maxthon 6 provides various UI customization options (mx://settings/appearance). We provide three classic themes, and more themes are available in [**Maxthon add-on center**](https://webstore.maxthon.cn/). You can also apply skins in the chrome extension center.
 
-## Classic features changed
+## Changes about Classic features
 
-The traditional Maxthon functions have been retained in Maxthon 6. Compared with Maxthon 5, Maxthon 6 has made adjustments in some places
+The traditional Maxthon functions have been retained in Maxthon 6. Compared with Maxthon 5, Maxthon 6 has made adjustments:
 
 #### Resource sniffer
 
