@@ -81,7 +81,6 @@
         markdown: {
           renderer: {
             image: function(src, title, alt) {
-              console.log("wk imag src:",src);
               if (isrelative(src)) {
                 src = dirname(window.location.hash.substring(1)) + src;
               }
