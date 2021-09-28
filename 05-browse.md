@@ -86,7 +86,7 @@ Maxthon 6 supports the following refresh methods:
   - Press the shortcut “Ctrl+0” to restore the page to 100%
   - F10: Split screen
   - F11: Fullscreen
-- At the top right, open the browser menu, then choose the zoom in/ out: ![pic](zh/images/05-10.png)
+- At the top right, open the browser menu, then choose the zoom in/ out: ![pic](images/05-12.png)
 - Zoom in/out on the status bar:![pic](zh/images/05-11.png)
 
 ## Share Webpage with QR Code
