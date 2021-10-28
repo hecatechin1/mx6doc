@@ -202,7 +202,7 @@ Maxthon6继续支持鼠标手势。在设置页，进入【鼠标手势】标签
 |转到页面底部|<span class="key">End</span>|
 |转到下一个制表位|<span class="key">Tab</span>|
 |转到上一个制表位|<span class="key">Shift</span> + <span class="key">Tab</span>|
-|切换 PDF宽度/页面适应|<span class="key">Ctrl</span> + <span class="key">\</span>（在 PDF 中）|
+|切换 PDF宽度/页面适应|<span class="key">Ctrl</span> + <span class="key">'\</span>（在 PDF 中）|
 |将 PDF 逆时针旋转 90 度|<span class="key">Ctrl</span> + <span class="key">[</span>（在 PDF 中）|
 |将 PDF 顺时针旋转 90 度|<span class="key">Ctrl</span> + <span class="key">]</span>（在 PDF 中）|
 |打印|<span class="key">Ctrl</span> + <span class="key">P</span>|
