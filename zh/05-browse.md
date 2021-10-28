@@ -119,6 +119,112 @@ Maxthon6继续支持鼠标手势。在设置页，进入【鼠标手势】标签
 - 老板键：使用快捷键后，浏览器自动最小化，保证您的屏幕不被看到。
 - 锁定浏览器键：该功能只有登录傲游云账户后可用，使用后，浏览器进入锁定状态，想要重新激活浏览器需要输入账户密码。
 
+### Maxthon6默认快捷键
+<table>
+<tbody>
+<tr><th>命令</th>	<th>快捷键</th></tr>
+<tr><td>老板键</td>	<td><span class="key">Ctlr</span> + <span class="key">·</span></td></tr>
+<tr><td>新建标签</td>	<td><span class="key">Ctrl</span> + <span class="key">T</span></td></tr>
+<tr><td>复制标签</td>	<td><span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">K</span></td></tr>
+<tr><td>下一个标签</td>	<td><span class="key">Ctrl</span> + <span class="key">Tab</span><br><span class="key">Ctrl</span> + <span class="key">→</span> <br><span class="key">Ctrl</span> + <span class="key">PgDn</span></td></tr>
+<tr><td>上一个标签</td>	<td><span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">Tab</span><br><span class="key">Ctrl</span> + <span class="key">←</span> <br><span class="key">Ctrl</span> + <span class="key">PgUp</span></td></tr>
+<tr><td>跳转到特定标签页</td>	<td><span class="key">Ctrl</span> + <span class="key">1</span> 到 <span class="key">Ctrl</span> + <span class="key">8</span></td></tr>
+<tr><td>跳转到最后一个标签页</td>	<td><span class="key">Ctrl</span> + <span class="key">9</span></td></tr>
+<tr><td>关闭当前标签</td>	<td><span class="key">Ctrl</span> + <span class="key">W</span><br><span class="key">Ctrl</span> + <span class="key">F4</span></td></tr>
+<tr><td>关闭其它标签</td>	<td><span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">W</span></td></tr>
+<tr><td>恢复最近关闭页面</td>	<td><span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">T</span></td></tr>
+<tr><td>关闭全部标签</td>	<td>无</td></tr>
+<tr><td>关闭右侧标签</td>	<td>无</td></tr>
+<tr><td>关闭左侧标签</td>	<td>无</td></tr>
+<tr><td>复制标题和网址</td>	<td>无</td></tr>
+<tr><td>粘贴并打开(搜索)</td>	<td><span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">N</span></td></tr>
+<tr><td>在新标签中后台打开</td>	<td><span class="key">Ctrl</span>+<span class="key">鼠标左键</span><br><span class="key">鼠标中键</span></td></tr>
+<tr><td>补全地址栏网址并打开</td>	<td><span class="key">Ctrl</span> + <span class="key">Enter</span></td></tr>
+<tr><td>输入网址后按快捷键后台打开</td>	<td><span class="key">Alt</span> + <span class="key">Enter</span></td></tr>
+<tr><td>锁定标签</td>	<td>无</td></tr>
+<tr><td>将当前标签静音</td>	<td><span class="key">Alt</span> + <span class="key">M</span></td></tr>
+<tr><td>后退</td>	<td><span class="key">Alt</span> + <span class="key">←</span><br><span class="key">Backspace</span></td></tr>
+<tr><td>前进</td>	<td><span class="key">Alt</span> + <span class="key">→</span>
+<tr><td>刷新</td>	<td><span class="key">Ctrl</span> + <span class="key">R</span><br><span class="key">F5</span></td></tr>
+<tr><td>停止</td>	<td><span class="key">Esc</span></td></tr>
+<tr><td>停止全部</td>	<td>无</td></tr>
+<tr><td>强制刷新</td>	<td><span class="key">Ctrl</span> + <span class="key">F5</span></td></tr>
+<tr><td>刷新全部</td>	<td><span class="key">Alt</span> + <span class="key">F5</span></td></tr>
+<tr><td>分屏模式</td>	<td><span class="key">F10</span></td></tr>
+<tr><td>开启/关闭全屏模式</td>	<td><span class="key">F11</span></td></tr>
+<tr><td>选中地址栏</td>	<td><span class="key">Ctrl</span> + <span class="key">L</span><br><span class="key">Alt</span> + <span class="key">D</span><br><span class="key">F6</span></td></tr>
+<tr><td>使用地址栏搜索</td>	<td><span class="key">Ctrl</span> + <span class="key">K</span><br><span class="key">Ctrl</span> + <span class="key">E</span></td></tr>
+<tr><td>主页</td>	<td><span class="key">Alt</span> + <span class="key">Home</span></td></tr>
+<tr><td>新建窗口</td>	<td><span class="key">Ctrl</span> + <span class="key">N</span></td></tr>
+<tr><td>新建隐身窗口</td>	<td>无</td></tr>
+<tr><td>新建小号窗口</td>	<td>无</td></tr>
+<tr><td>切换窗口</td>	<td>无</td></tr>
+<tr><td>关闭当前窗口</td>	<td><span class="key">Alt</span> + <span class="key">F4</span></td></tr>
+<tr><td>退出浏览器</td>	<td>无</td></tr>
+<tr><td>最小化当前窗口</td>	<td><span class="key">Alt</span> + <span class="key">空格键</span> + <span class="key">n</span></td></tr>
+<tr><td>最大化当前窗口</td>	<td><span class="key">Alt</span> + <span class="key">空格键</span> + <span class="key">x</span></td></tr>
+<tr><td>保存表单</td>	<td>无</td></tr>
+<tr><td>填写表单</td>	<td>无</td></tr>
+<tr><td>区域截图</td>	<td><span class="key">Ctrl</span> + <span class="key">F1</span></td></tr>
+<tr><td>页面截图</td>	<td><span class="key">Ctrl</span> + <span class="key">F2</span></td></tr>
+<tr><td>另存为</td>	<td><span class="key">Ctrl</span> + <span class="key">S</span></td></tr>
+<tr><td>页面内查找</td>	<td><span class="key">Ctrl</span> + <span class="key">F</span></td></tr>
+<tr><td>移动光标至下一个查找位置</td>	<td><span class="key">F3</span></td></tr>
+<tr><td>移动光标至上一个查找位置</td>	<td><span class="key">Shift</span> + <span class="key">F3</span><br><span class="key">Ctrl</span> +<span class="key">Shift</span> +<span class="key">G</span></td></tr>
+<tr><td>开发者工具</td>	<td><span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">I</span><br><span class="key">F12</span></td></tr>
+<tr><td>打开控制台</td>	<td><span class="key">Ctrl</span> + <span class="key">Shift</span> +<span class="key">J</span></td></tr>
+<tr><td>查看源代码</td>	<td><span class="key">Ctrl</span> + <span class="key">U</span></td></tr>
+<tr><td>打开上下文菜单（右键菜单）</td>	<td><span class="key">Shift</span> + <span class="key">F10</span></td></tr>
+<tr><td>打开计算机中的文件</td>	<td><span class="key">Ctrl</span> + <span class="key">O</span></td></tr>
+<tr><td>移动焦点至工具栏</td>	<td><span class="key">Shift</span> + <span class="key">Alt</span> + <span class="key">T</span></td></tr>
+<tr><td>移动焦点到主菜单</td>	<td><span class="key">Alt</span></td></tr>
+<tr><td>打开主菜单</td>	<td><span class="key">Alt</span> + <span class="key">F</span></td></tr>
+<tr><td>打开个人中心</td>	<td><span class="key">Ctrl</span> + <span class="key">Y</span></td></tr>
+<tr><td>打开书签菜单</td>	<td><span class="key">Alt</span> + <span class="key">A</span></td></tr>
+<tr><td>打开书签管理器</td>	<td><span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">O</span></td></tr>
+<tr><td>下载管理器</td>	<td><span class="key">Ctrl</span> + <span class="key">J</span></td></tr>
+<tr><td>历史</td>	<td><span class="key">Ctrl</span> + <span class="key">H</span></td></tr>
+<tr><td>打开傲游任务管理器</td>	<td><span class="key">Shift</span> + <span class="key">Esc</span></td></tr>
+<tr><td>打开傲游笔记</td>	<td><span class="key">Shift</span> + <span class="key">Alt</span> + <span class="key">N</span></td></tr>
+<tr><td>打开极简笔记</td>	<td><span class="key">Ctrl</span>+ <span class="key">G</span></td></tr>
+<tr><td>添加页面到书签</td>	<td><span class="key">Ctrl</span> + <span class="key">D</span></td></tr>
+<tr><td>添加所有页面到书签</td>	<td><span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">D</span></td></tr>
+<tr><td>添加页面内其他URL到书签</td>	<td>链接拖动至书签栏</td></tr>
+<tr><td>显示/隐藏书签栏</td>	<td><span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">B</span></td></tr>
+<tr><td>上次未关闭页面</td>	<td>无</td></tr>
+<tr><td>清除浏览数据</td>	<td><span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">F</span><br><span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">Del</span></td></tr>
+<tr><td>页面放大</td>	<td><span class="key">Ctrl</span> + <span class="key">=</span><br><span class="key">Ctrl</span>+<span class="key">鼠标滚轮</span>向上</td></tr>
+<tr><td>页面缩小</td>	<td><span class="key">Ctrl</span> + <span class="key">-</span><br><span class="key">Ctrl</span>+<span class="key">鼠标滚轮</span>向下</td></tr>
+<tr><td>原始页面大小</td>	<td><span class="key">Ctrl</span> + <span class="key">0</span></td></tr>
+<tr><td>向下滚动一屏</td>	<td><span class="key">空格键</span><br><span class="key">PgDn</span></td></tr>
+<tr><td>向上滚动一屏</td>	<td><span class="key">Shift</span> + <span class="key">空格键</span><br><span class="key">PgUp</span></td></tr>
+<tr><td>水平滚动</td>	<td><span class="key">Shift</span> + <span class="key">鼠标滚轮</span>
+<tr><td>转到页面顶部</td>	<td><span class="key">Home</span></td></tr>
+<tr><td>转到页面底部</td>	<td><span class="key">End</span></td></tr>
+<tr><td>转到下一个制表位</td>	<td><span class="key">Tab</span></td></tr>
+<tr><td>转到上一个制表位</td>	<td><span class="key">Shift</span> + <span class="key">Tab</span></td></tr>
+<tr><td>切换 PDF宽度/页面适应</td>	<td><span class="key">Ctrl</span> + <span class="key">\</span>（在 PDF 中）</td></tr>
+<tr><td>将 PDF 逆时针旋转 90 度</td>	<td><span class="key">Ctrl</span> + <span class="key">[</span>（在 PDF 中）</td></tr>
+<tr><td>将 PDF 顺时针旋转 90 度</td>	<td><span class="key">Ctrl</span> + <span class="key">]</span>（在 PDF 中）</td></tr>
+<tr><td>打印</td>	<td><span class="key">Ctrl</span> + <span class="key">P</span></td></tr>
+<tr><td>使用系统对话框打印</td>	<td><span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">P</span></td></tr>
+<tr><td>锁定浏览器</td>	<td>无</td></tr>
+<tr><td>帮助</td>	<td><span class="key">F1</span></td></tr>
+</tbody>
+</table>
+<style>
+	.key { display: -webkit-inline-box; display: inline-flex; -webkit-box-pack:
+	center; justify-content: center; -webkit-box-align: center; align-items:
+	center; border: 1px solid #cdcdd4; border: 1px solid var(--color-marketing-gray-03);
+	padding: 0 16px; border-radius: 2px; font-family: Metropolis , Inter ,
+	X-LocaleSpecific , sans-serif; font-family: var(--heading-alt-font-family);
+	font-size: 14px; font-size: .875rem; font-weight: 700; text-decoration:
+	none; color: #5e5e72; color: var(--color-marketing-gray-07); } table td:first-child,
+	table th:first-child { padding-left: 0; } table td, table th { padding:
+	4px 8px; border-bottom: 1px solid #ededf0; border-bottom: 1px solid var(--color-border);
+	text-align: left; }
+</style>
+
 
 
 ## 使用Maxthon6的状态栏
