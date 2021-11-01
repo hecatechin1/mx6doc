@@ -100,6 +100,7 @@ If the caller wants to support multiple wallet, it can generate request and enco
 |  v | yes  | int  | 2     | protocol version  |
 | app| yes  | JSON |  {<br>"name":"NBdomain","logo":"http://nbdomain.com/logo.png"<br>} | logo(96*96 png)|
 | id | yes  |string| 20200402095801666666 | the unique order id inside the app. It will be returned by callback |
+|payer|no   |string|19YawJS5tLtQk4XUPyyXzM98H5ceWx4KPJ047d32a8544a1960d37d0634|Signer address. Used to specify the payer|
 | to | no   |array |[<br/>{"protocol":"bitIdentity","value":{"public_key":"..."}}"<br/> {"address": "...","value": 500},<br/> {"script": "...","value": 500}<br/>]|A list of payment receiver. It shall be address or script. The amount shall be bigger than 600 satoshi.|
 | input|no  |array |see notes| set customized UTXO and unlocking script|
 |notify_url| no | url |https://www.maxthon.com/notify| URL to accept result |
