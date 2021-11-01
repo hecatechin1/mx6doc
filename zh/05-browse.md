@@ -120,6 +120,8 @@ Maxthon6继续支持鼠标手势。在设置页，进入【鼠标手势】标签
 - 锁定浏览器键：该功能只有登录傲游云账户后可用，使用后，浏览器进入锁定状态，想要重新激活浏览器需要输入账户密码。
 
 ### Maxthon6默认快捷键
+未设置默认快捷键的命令可以在设置中自定义快捷键。
+
 |命令|快捷键|
 |----|----|
 |老板键|<span class="key">Ctlr</span> + <span class="key">·</span>|
@@ -170,6 +172,7 @@ Maxthon6继续支持鼠标手势。在设置页，进入【鼠标手势】标签
 |页面内查找|<span class="key">Ctrl</span> + <span class="key">F</span>|
 |移动光标至下一个查找位置|<span class="key">F3</span>|
 |移动光标至上一个查找位置|<span class="key">Shift</span> + <span class="key">F3</span><br><span class="key">Ctrl</span> +<span class="key">Shift</span> +<span class="key">G</span>|
+|翻译当前页|无|
 |开发者工具|<span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">I</span><br><span class="key">F12</span>|
 |打开控制台|<span class="key">Ctrl</span> + <span class="key">Shift</span> +<span class="key">J</span>|
 |查看源代码|<span class="key">Ctrl</span> + <span class="key">U</span>|
