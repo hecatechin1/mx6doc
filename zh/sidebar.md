@@ -1,11 +1,11 @@
 - [最新变化](whatsnew.md)
 
 
-- [Maxthon6使用指南](00-introduction.md)
+- [Maxthon使用指南](00-introduction.md)
 
 
 
-- [开始使用Maxthon6](01-start.md)
+- [开始使用Maxthon](01-start.md)
 
 
 

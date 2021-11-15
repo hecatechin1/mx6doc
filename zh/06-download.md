@@ -57,5 +57,5 @@
 
 ## 默认下载位置
 
-如果您未更改默认下载位置，那么Maxthon6将会将文件下载到：Users\<用户名>\Downloads
+如果您未更改默认下载位置，那么Maxthon将会将文件下载到：Users\<用户名>\Downloads
 

@@ -2,18 +2,18 @@
 
 ## Sign in to Maxthon Browser Account to Sync
 
-Sign in to your browser account in Maxthon 6 to sync with multi-devices. 
+Sign in to your browser account in Maxthon to sync with multi-devices. 
 Under the guest account, you can click Menu > Log in and sync data
 
 ![](images/02-00.png)
 
-*Note1: Maxthon 5 browser account data will automatically import to Maxthon 6 at the first sign-in. After that, the data of Maxthon 5 won’t sync with Maxthon 6 (except Maxnote).
+*Note1: Maxthon 5 browser account data will automatically import to the new Maxthon at the first sign-in. After that, the data of Maxthon 5 won’t sync with the New Maxthon version (except Maxnote).
 
-*Note2: Maxthon 5 cannot sync with Maxthon 6 (except Maxnote) even under the same account.
+*Note2: Maxthon 5 cannot sync with the new Maxthon (except Maxnote) even under the same account.
 
-After signing in to your browser account, you can import account data from Maxthon 5 and Maxthon 6 local guest account:
-1. Import Maxthon 5 account data from the server: If you need to overwrite or merge the Maxthon 5 account data to Maxthon 6.
-2. Merge local data and sync: Import the Maxthon 6 local guest account data to your browser account, then sync to Maxthon 6 server
+After signing in to your browser account, you can import account data from Maxthon 5 and Maxthon local guest account:
+1. Import Maxthon 5 account data from the server: If you need to overwrite or merge the Maxthon 5 account data to the new Maxthon.
+2. Merge local data and sync: Import the Maxthon local guest account data to your browser account, then sync to Maxthon server
 
 ## Sign in to Multi-accounts
 
@@ -59,9 +59,9 @@ You can set the particular startup page for every browser account:
 
 ## Sign in with the Guest Account
 
-You can also use the guest account when using Maxthon 6 temporarily.
+You can also use the guest account when using Maxthon temporarily.
 
 ![](images/02-05.png)
 
-The guest account is the local account. It can use most of Maxthon 6’s features and needn’t password.
+The guest account is the local account. It can use most of Maxthon’s features and needn’t password.
 *Note: If you delete the local data, the browser data under the guest account will be lost.

@@ -6,7 +6,7 @@ Activate the screen snap function by clicking the snap button![](zh/images/13-1.
 
 ![](images/13-00.png)
 
-Maxthon 6 provides you two ways to snap：
+Maxthon provides you two ways to snap：
 
 1. **Snap screen** select the area on the screen you need to snap by a box selecting tool.
 2. **Snap page** equals "saving the web page as a picture"
@@ -35,8 +35,8 @@ Click the main menu button![](images/03-2.png) in the upper right corner, find "
 
 ![](images/13-03.png "=85%, 85%")
 
-## Cast Maxthon 6 to TV
+## Cast Maxthon to TV
 
-Click the main menu button![](images/03-2.png) in the upper right corner, find "cast..." under "features", Maxthon 6 will search available devices automatically. Select the device you need after the search.
+Click the main menu button![](images/03-2.png) in the upper right corner, find "cast..." under "features", Maxthon will search available devices automatically. Select the device you need after the search.
 
 ![](images/13-04.png "=85%, 85%")

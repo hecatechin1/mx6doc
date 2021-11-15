@@ -1,35 +1,35 @@
-Maxthon# 开始使用 Maxthon6
+Maxthon
 
+# 开始使用 Maxthon
 
+## -下载和安装 Maxthon 
 
-## -下载和安装 Maxthon6 
+#### <font color=#0062CC>-在Windows中安装 Maxthon</font>
 
-#### <font color=#0062CC>-在Windows中安装 Maxthon6</font>
-
-Maxthon6 官方下载地址请访问：maxthon.cn
+Maxthon 官方下载地址请访问：maxthon.cn
 
 ![](images/01-1.png)
 
 
 
-点击【立即体验】，下载 Maxthon6 安装包，下载时，系统会自动检测您的系统，并为您下载最合适的安装包，此外，您可也可以进入【更多选择】，选择其类型的安装包。最后点击下载好安装程序，选择【立即安装】，安装结束后即可进入 Maxthon6
+点击【立即体验】，下载 Maxthon 安装包，下载时，系统会自动检测您的系统，并为您下载最合适的安装包，此外，您可也可以进入【更多选择】，选择其类型的安装包。最后点击下载好安装程序，选择【立即安装】，安装结束后即可进入 Maxthon
 
-#### <font color=#0062CC>-在Windows中使用 Maxthon6 的便携版</font>
+#### <font color=#0062CC>-在Windows中使用 Maxthon 的便携版</font>
 
-如果您需要临时在其他电脑上使用 Maxthon6，也可以使用便携版
+如果您需要临时在其他电脑上使用 Maxthon，也可以使用便携版
 
-- 下载适合的 Maxthon6 便携版版压缩包（https://www.maxthon.cn/mx6/download/）
+- 下载适合的 Maxthon 便携版版压缩包（https://www.maxthon.cn/mx6/download/）
 - 解压后，直接点击 Maxthon6.exe
 
 <font color=#A30014>*注意：便携版本地数据保存在便携版的文件夹中，如未登录云账户，则文件夹删除后，数据不会回复。</font>
 
-#### <font color=#0062CC>-通过 Maxthon5 升级为 Maxthon6 </font>
+#### <font color=#0062CC>-通过 Maxthon5 升级为新版 Maxthon </font>
 
-如果您在本地安装了 Maxthon5，可以直接升级 Maxthon5 至 Maxthon6。
+如果您在本地安装了 Maxthon5，可以直接升级 Maxthon5 至新版 Maxthon。
 
 
 
-使用该升级方式，您 Maxthon5 中的本地数据将直接被导入 Maxthon6，为您提供无缝升级体验。
+使用该升级方式，您 Maxthon5 中的本地数据将直接被导入新版 Maxthon，为您提供无缝升级体验。
 
 
 
@@ -45,9 +45,9 @@ Maxthon6 官方下载地址请访问：maxthon.cn
 
 ![](images/01-3.png "=50%,50%") 
 
-<font color=#A30014>注意：如果您是Maxthon 5 的老用户，初次使用 Maxthon 6 时,我们会复制您的历史数据至 Maxthon 6，同时保留 Maxthon 5 数据的独立性。</font>
+<font color=#A30014>注意：如果您是Maxthon 5 的老用户，初次使用新版 Maxthon 时,我们会复制您的历史数据，同时保留 Maxthon 5 数据的独立性。</font>
 
-#### <font color=#0062CC> -创建一个新的 Maxthon6 云账户</font>
+#### <font color=#0062CC> -创建一个新的 Maxthon 云账户</font>
 
 如果您是 Maxthon 的新用户，您可以使用手机或邮箱注册一个新的账户，开启您的 Maxthon 体验。
 
@@ -67,28 +67,28 @@ Maxthon6 官方下载地址请访问：maxthon.cn
 
 ## -导入本地数据
 
-如果您在本地有其他浏览器数据或Html文件，可直接导入 Maxthon6 中使用。
+如果您在本地有其他浏览器数据或Html文件，可直接导入 Maxthon 中使用。
 
 - 点击【主菜单/设置】在【基本设置】中，点击【导入本地数据及HTML】；
-- Maxthon6自动识别并支持导入Edge、IE、Firefox、Chrome等绝大多数常用的浏览器数据。
+- Maxthon自动识别并支持导入Edge、IE、Firefox、Chrome等绝大多数常用的浏览器数据。
 
 ![](images/01-6.png)
 
 
 
-## -将 Maxthon6 设置为默认浏览器
+## -将 Maxthon 设置为默认浏览器
 
-将 Maxthon6 设置为默认浏览器，那么您点击任何链接或您设置好的打开文件格式，都会自动在Maxthon6中打开。以Windows10为例：
+将 Maxthon 设置为默认浏览器，那么您点击任何链接或您设置好的打开文件格式，都会自动在Maxthon中打开。以Windows10为例：
 
 - 【主菜单/更多工具】中，点击【设为默认浏览器】
 
 ![](images/01-7.png)
 
-- 系统自动弹出的默认应用设置中，点击Web浏览器，在弹出列表中选择 傲游浏览器6
+- 系统自动弹出的默认应用设置中，点击Web浏览器，在弹出列表中选择 傲游浏览器
 
 ![](images/01-8.png)
 
-- 为便于您日后轻松地打开 Maxthon6，请按照以下步骤将 Maxthon6 的快捷方式添加至您的任务栏
+- 为便于您日后轻松地打开 Maxthon，请按照以下步骤将 Maxthon 的快捷方式添加至您的任务栏
   - 在计算机上打开 傲游浏览器；
   - 在底部的 Windows 任务栏中，右键点击 傲游浏览器 图标；
   - 点击固定到任务栏。
@@ -97,21 +97,21 @@ Maxthon6 官方下载地址请访问：maxthon.cn
 
 ## -更新及卸载 Maxthon
 
-#### <font color=#0062CC> -Maxthon6的更新</font>
+#### <font color=#0062CC> -Maxthon的更新</font>
 
-通过【主菜单/设置】，在设置中切换至【关于傲游6】，以及【主菜单/帮助/关于傲游浏览器】，均可以进入傲游6的更新页面。
+通过【主菜单/设置】，在设置中切换至【关于傲游】，以及【主菜单/帮助/关于傲游浏览器】，均可以进入傲游的更新页面。
 
 ![](images/01-9.png)
 
-- Maxthon6 的更新提供三种模式
+- Maxthon 的更新提供三种模式
   - 自动检查更新（推荐）：当有新的版本上线后，系统将自动检查并更新至最新版本；
   - 检测并提醒手动更新：当系统检测到有新的版本上线后，将为您发送通知，您需要在当前页面手动更新；
   - 从不检测更新：设置为该选项后，系统不会为版本的更新提供任何帮助，您需要手动检查并手动更新。
-- Maxthon6 每隔7~10天即推出一版Beta内测版，如果用户想提前体验并参与进 Maxthon6 的内测中来，请勾选【同时更新Beta】，勾中该项目后，系统会升级至版本号最高的版本，无论是正式版还是Beta版。
+- Maxthon 每隔7~10天即推出一版Beta内测版，如果用户想提前体验并参与进 Maxthon 的内测中来，请勾选【同时更新Beta】，勾中该项目后，系统会升级至版本号最高的版本，无论是正式版还是Beta版。
 
-#### <font color=#0062CC> -Maxthon6的卸载</font>
+#### <font color=#0062CC> -Maxthon的卸载</font>
 
-- 您可以Win菜单中找到 Maxthon6，然后点击鼠标右键，在弹出的选项中选择【卸载】即可完成卸载。
+- 您可以Win菜单中找到 Maxthon，然后点击鼠标右键，在弹出的选项中选择【卸载】即可完成卸载。
 - 您也可以打开控制面板，在【程序】中选择卸载程序，找到傲游浏览器，选择【卸载】即可。
 
 ![](images/01-10.png)
