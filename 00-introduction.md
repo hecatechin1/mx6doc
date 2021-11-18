@@ -1,8 +1,8 @@
-Maxthon# Start using maxthon 6
+# Start using Maxthon
 
 ## New tab: Excitments within reach
 
-Maxthon6 will preset some common links in the new tab, hover to modify/delete and drag to grouping/changing order;
+Maxthon will preset some common links in the new tab, hover to modify/delete and drag to grouping/changing order;
 ![](images/00-00.png "=85%, 85%")
 
 [**folder**]: when an item is dragged to overlap with another item, releasing it will automatically create a folder for the two items; Folder - when you drag out or delete its items to 0, the folder is automatically deleted;
@@ -17,7 +17,7 @@ Maxthon6 will preset some common links in the new tab, hover to modify/delete an
 
 Whether it is a web address or a search keyword, the address bar is automatically matched. The address bar gives you matching suggestions according to existing bookmarks, tags, history, opened tabs, and search popularity. You can change the search engine in settings.
 
-## Maxthon 6 cloud service synchronizes data to different devices.
+## Maxthon cloud service synchronizes data to different devices.
 
 ![](images/00-02.png "=85%, 85%")
 
@@ -27,7 +27,7 @@ Log in to your Maxthon account to sync data among multiple devices. Click the me
 
 ![](images/00-03.png "=85%, 85%")
 
-You can browse the Internet without leaving any information on your computer. Maxthon6 will also block attempts to track your activities on the Internet.
+You can browse the Internet without leaving any information on your computer. Maxthon will also block attempts to track your activities on the Internet.
 
 Click the main menu button, and then click [Incognito]
 
@@ -47,12 +47,12 @@ Click the puzzle piece button in the upper right corner to check the add-ons cur
 
 Click the cog button to enter the add-on management page, where you can deactivate/activate and delete add-ons;
 
-Click "get more" to enter Maxthon 6 add-on library and install more;
+Click "get more" to enter Maxthon add-on library and install more;
 
-All add-ons that support chrome can be installed to maxthon6 through an install file or directly from the chrome extension web store.
+All add-ons that support chrome can be installed to maxthon through an install file or directly from the chrome extension web store.
 
 ## Activate Vbox
 
 ![](images/00-06.png "=85%, 85%")
 
-Click the 'V' logo to open the Vbox. You can get your blockchain identity here. Apply for the NBdomain name for free, and explore more fun applets in Maxthon 6.
+Click the 'V' logo to open the Vbox. You can get your blockchain identity here. Apply for the NBdomain name for free, and explore more fun applets in Maxthon.

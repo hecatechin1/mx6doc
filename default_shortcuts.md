@@ -1,4 +1,4 @@
-### Maxthon6 Defult Shotcuts
+### Maxthon Defult Shotcuts
 |Command|Shortcut|
 |----|----|
 |Boss key|<span class="key">Ctlr</span> + <span class="key">·</span>|

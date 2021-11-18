@@ -1,10 +1,10 @@
 # Browsing Webpage
 
-## Search the Web on Maxthon 6
+## Search the Web on Maxthon
 
 #### Universal search function
 
-The address bar of the Maxthon 6 browser not only access URLs but can also search keywords. It will work using the default search engine.
+The address bar of the Maxthon browser not only access URLs but can also search keywords. It will work using the default search engine.
 
 1. Search suggestions
 
@@ -64,7 +64,7 @@ The global mute setting is working on the whole browser. If you enable the globa
 
 ![](images/05-05.png "=85%, 85%")
 
-Maxthon 6 supports the following refresh methods:
+Maxthon supports the following refresh methods:
 
 1. Shortcut: **Ctrl+R**
 

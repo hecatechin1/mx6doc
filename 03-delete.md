@@ -12,13 +12,13 @@ Data can be deleted by clicking **Clear Browser Data**
     * Web addresses you have visited are removed from the history page
     * Shortcuts to those pages are removed from the New Tab page
     * Address bar predictions based on “browsing history” and “recently visited” websites
-* Download history: The list of files you have downloaded using the Maxthon 6 download manager is deleted. Clearing this data will not cause the actual file to be deleted from the computer.
+* Download history: The list of files you have downloaded using the Maxthon download manager is deleted. Clearing this data will not cause the actual file to be deleted from the computer.
 * Cookies and other site data
     * Cookies: Cookies are files created by websites you visit. They make your online experience easier by saving browsing information. For example, Cookies help to store and remember information if you set “auto sign-in for 1 month” for a particular website.
     * Website Data: HTML5-enabled storage types including application caches, internet stored data, internet SQL data, and database index.
-    * Handlers: Maxthon 6 allows external applications and web services to open certain links. For example, certain links can open a site like Gmail or a program like iTunes. The default action you set for certain types of links will be deleted.
+    * Handlers: Maxthon allows external applications and web services to open certain links. For example, certain links can open a site like Gmail or a program like iTunes. The default action you set for certain types of links will be deleted.
     * Media licensing: Licenses for HTML5 or Flash-protected content, like movies or music that you’ve played or downloaded, are deleted. (for example the song or movie you have downloaded)
-* Cached images and files: Maxthon 6 remembers parts of pages to help them open faster during your next visit. Text and images from pages you've visited in Maxthon 6 are removed. After clearing this cache, re-downloading of the website is required when you visit the page again.
+* Cached images and files: Maxthon remembers parts of pages to help them open faster during your next visit. Text and images from pages you've visited in Maxthon are removed. After clearing this cache, re-downloading of the website is required when you visit the page again.
 * Website settings: Settings and permissions you give to websites are deleted. For example, if a site can run JavaScript, use your camera, or know your location.
 * Hosted application data: Data from the hosted extension is erased, like the local storage used by Gmail Offline.
 
@@ -30,7 +30,7 @@ Data can be deleted by clicking **Clear Browser Data**
 
 ## Clear Browsing Data
 
-Maxthon 6 provides a convenient one-click data deletion function.
+Maxthon provides a convenient one-click data deletion function.
 ![](images/03-00.png)
 
 1. Left-click on the customize and control button![](zh/images/03-2.png) at the top right corner to show the main menu

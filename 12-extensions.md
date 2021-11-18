@@ -19,13 +19,13 @@ Maxthon supports chromium standard extensions. Click the extension button in the
 Click the menu button in the upper right corner to open the main menu and select "more tools" > "extensions" to open the extension manager page. Another way is to click the address bar extension button (the puzzle piece) and click manager in the lower right corner of the pop-up window.
 The extension can be tuned off and be deleted in the extension manager page.
 
-## Install extensions in the extension center of Maxthon 6
+## Install extensions in the extension center of Maxthon
 
 ![](images/12-00.png "=85%,85%")
 
-Enter Maxthon 6 extension center (https://webstore.maxthon.com/ ), Thousands of convenient extensions are recommended here. Various themes are also recommended here. Click to install and use them.
+Enter Maxthon extension center (https://webstore.maxthon.com/ ), Thousands of convenient extensions are recommended here. Various themes are also recommended here. Click to install and use them.
 
-> Tip: use the big blue "add to Maxthon 6" button to install all selected recommended extensions with one click.
+> Tip: use the big blue "add to Maxthon" button to install all selected recommended extensions with one click.
 
 ## Download and install extensions on other platforms
 

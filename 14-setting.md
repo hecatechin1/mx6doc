@@ -10,14 +10,14 @@ Tip: the most comfortable font size for online reading is 13 ~ 14, which is the 
 
 ## Language
 
-Maxthon 6 supports 55 languages. Select the **General** tab on the settings page, find the **Language** section, and switch the current browser language there. (mx://settings/)
+Maxthon supports 55 languages. Select the **General** tab on the settings page, find the **Language** section, and switch the current browser language there. (mx://settings/)
 You can add backup languages to the language list through **add language**, and quickly switch languages through the drop-down list above.
 
 ![image](images/14-01.png "=85%,85%")
 
 ## Direct URL
 
-Maxthon 6 supports the Direct URL function as before. Select the **Advanced** tab and find the Direct URL.(mx://settings/advance)
+Maxthon supports the Direct URL function as before. Select the **Advanced** tab and find the Direct URL.(mx://settings/advance)
 
 ![image](images/14-02.png "=85%,85%")
 

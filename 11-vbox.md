@@ -93,7 +93,7 @@ You can leave a message for each other while transferring money, and the message
 
 ## Switch Vbox ID
 
-You can create multiple Vbox IDs in Maxthon 6, and every ID has the individual private key and payment address. The private key and payment address info cannot be modified.
+You can create multiple Vbox IDs in Maxthon, and every ID has the individual private key and payment address. The private key and payment address info cannot be modified.
 ![](images/11-10.png)
 
 Open Vbox > Me > Identity info, enter Manage Identity:
@@ -121,7 +121,7 @@ One of the core functions of Vbox is to serve as a BSV wallet that responds to B
 
 ![](images/11-13.png)
 
-When making a BSV third-party payment, if you are using Maxthon 6, you can select Vbox for payment:
+When making a BSV third-party payment, if you are using Maxthon, you can select Vbox for payment:
 
 1. You can switch the identity to any local wallet.
 2. After checking Add to autopay list, payments from this application/domain for transactions within the automatic payment limit can be completed automatically in the background without password verification.
