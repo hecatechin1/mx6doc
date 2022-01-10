@@ -18,17 +18,18 @@ You can
 
 Vbox is a tool for managing blockchain identities. It can help you build encrypted identities on the local device with a simple password. All of the blockchain apps can apply for the signature and the payment via Vbox.
 
-## Activate Vbox to Get the Vbox ID
-
-At the top right, click the Vbox icon ![pic](zh/images/11-2.png) to open it
+## Register Vbox Cloud And Get A Free NBdomian
 
 ![](images/11-01.png)
-
-On the Vbox startup page, click Activate now to customize the ID remark and password, then get the blockchain ID.
+- At the top right of the browser, click the Vbox icon ![pic](zh/images/11-2.png) to open the Vbox app.
+- On the Vbox startup page, click Sign up Vbox cloud.
+- There are two ways to join the Vbox cloud: by mobile phone number or by e-mail address.
+- It is highly recommended that you register the account with your mobile phone number. Because you can get a free NBdomain by registering with your phone number.
+- NBdomain is a blockchain domain name and a global ID. More info on NBdomain can be found at https://nbdomain.com and https://medium.com/@nbdomain
+- You can get the free domain later if you sign up with your e-mail. But a mobile phone number is still needed.
+- After registration, you need to customize the ID remark and password, then you will be all set.
 
 ## Apply for the Free NBdomain
-
-NBdomain is a blockchain domain name and a global ID. More info of NBdomain can be found at https://nbdomain.com and https://medium.com/@nbdomain . 
 
 ![](images/11-02.png)
 
