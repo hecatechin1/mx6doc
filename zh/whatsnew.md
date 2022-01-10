@@ -1,17 +1,17 @@
 # Maxthon 有哪些新变化?
 *****
 
-**欢迎来到Maxthon！**
+**欢迎来到 Maxthon**
 
-**20 年经典，始终如一。**
+**20年经典，始终如一。**
 
 全新 Maxthon 在 Maxthon 5 的基础上进行了全面升级，重新出发的 Maxthon 功能更强大，体验更流畅，玩法更多样，设计更新潮……
 
 全新的 Maxthon 在<font color=#0062CC>[支持更多chromium插件](12-extend.md)</font>的基础上，保留了Maxthon 5 的大部分特色功能：<font color=#0062CC>[傲游笔记](08-mxnote)</font>、<font color=#0062CC>[资源嗅探器](#资源嗅探器)</font>、<font color=#0062CC>[密码大师](10-password.md)</font>、<font color=#0062CC>[分屏浏览](05-browse?id=网页缩放与全屏、分屏模式)</font>等。从Maxthon 5 升级至Maxthon，您的数据将被全量导入，实现流畅自然的切换。<font color=#0062CC>[登录Maxthon账户](02-privacy)</font>还能使您在不同设备之间实现数据互通。
 
-另外，Maxthon 还引领潮流，新增了区块链玩法。您可以在<font color=#0062CC>[区块链身份管理工具 Vbox](11-vbox)</font> 中管理您的加密货币钱包或者直接创建一个 BSV 公链上的 Vbox 身份。Vbox 还可绑定全球首款<font color=#0062CC>[区块链域名 NBdomain](11-vbox?id=-申请免费nb域名)</font>，使用手机号即可免费注册自己的域名，不再需要每年支付域名费用。还有更多区块链小应用，您可以和您的朋友一起体验新潮的链上生活。
+另外, Maxthon 还引领潮流，新增了区块链玩法。您可以在<font color=#0062CC>[区块链身份管理工具 Vbox](11-vbox)</font> 中管理您的加密货币钱包或者直接创建一个 BSV 公链上的 Vbox 身份。Vbox 还可绑定全球首款<font color=#0062CC>[区块链域名 NBdomain](11-vbox?id=-申请免费nb域名)</font>，使用手机号即可免费注册自己的域名，不再需要每年支付域名费用。还有更多区块链小应用，您可以和您的朋友一起体验新潮的链上生活。
 
-在Maxthon 中，部分传统功能做出了调整和更新。傲游笔记更新了<font color=#0062CC>[极简笔记](09-fastnote)</font>功能，原傲游笔记中的网址收藏单独独立成<font color=#0062CC>[书签](07-bookmark)</font>模块，并添加了管理页面。此外，菜单项、历史记录、下载管理页面也做了一些展示上的改变，更加简洁易用。
+在 Maxthon 中，部分传统功能做出了调整和更新。傲游笔记更新了<font color=#0062CC>[极简笔记](09-fastnote)</font>功能，原傲游笔记中的网址收藏单独独立成<font color=#0062CC>[书签](07-bookmark)</font>模块，并添加了管理页面。此外，菜单项、历史记录、下载管理页面也做了一些展示上的改变，更加简洁易用。
 
 最后，Maxthon 仍在不断更新和完善中，任何您使用上的不便都是我们不断努力的动力。挑剔的用户永远是Maxthon的宝藏。如果遇到使用上的问题，可以随时[反馈](https://www.maxthon.cn/mx/bug/post/)或[联系我们](https://www.maxthon.com/contact/)，我们将会及时回复并尽最大的可能满足您的需要。
 
