@@ -11,7 +11,7 @@
 
 另外，Maxthon 还引领潮流，新增了区块链玩法。您可以在<font color=#0062CC>[区块链身份管理工具 Vbox](11-vbox)</font> 中管理您的加密货币钱包或者直接创建一个 BSV 公链上的 Vbox 身份。Vbox 还可绑定全球首款<font color=#0062CC>[区块链域名 NBdomain](11-vbox?id=-申请免费nb域名)</font>，使用手机号即可免费注册自己的域名，不再需要每年支付域名费用。还有更多区块链小应用，您可以和您的朋友一起体验新潮的链上生活。
 
-在Maxthon 中，部分传统功能做出了调整和更新。傲游笔记更新了<font color=#0062CC>[极简笔记](09-fastnote)</font>功能，原傲游笔记中的网址收藏单独独立成<font color=#0062CC>[书签](07-bookmark)</font>模块，并添加了管理页面。此外，菜单项、历史记录、下载管理页面也做了一些展示上的改变，更加简洁易用。
+在Maxthon 中，部分传统功能做出了调整和更新。傲游笔记更新了<font color=#0062CC>[极简笔记](09-fastnote)</font>功能，原傲游笔记中的网址收藏独立成<font color=#0062CC>[书签](07-bookmark)</font>模块，并添加了管理页面。此外，菜单项、历史记录、下载管理页面也做了一些展示上的改变，更加简洁易用。
 
 最后，Maxthon 仍在不断更新和完善中，任何您使用上的不便都是我们不断努力的动力。挑剔的用户永远是Maxthon的宝藏。如果遇到使用上的问题，可以随时[反馈](https://www.maxthon.cn/mx/bug/post/)或[联系我们](https://www.maxthon.com/contact/)，我们将会及时回复并尽最大的可能满足您的需要。
 
@@ -27,7 +27,7 @@ Maxthon 新增了很多特色功能，包括
 
 ![插件中心](images/插件中心.gif "=85%,85%")
 
-全新的Maxthon 支持所有 chrome 插件，在开发者模式下，您还能够开发并调试您自己的插件。您可以在 [**chrome 插件中心**](https://chrome.google.com/webstore/category/extensions)直接安装插件到Maxthon。中国大陆境内的用户可以在[**Maxthon插件中心**](https://webstore.maxthon.cn/)下载您所需的插件。
+全新的Maxthon 支持所有 chrome 插件，在开发者模式下，您还能够开发并调试您自己的插件。如果您登录傲游账户，傲游还可以同步您账号中的插件。您可以在 [**chrome 插件中心**](https://chrome.google.com/webstore/category/extensions)直接安装插件到Maxthon。中国大陆境内的用户可以在[**Maxthon插件中心**](https://webstore.maxthon.cn/)下载您所需的插件。
 
 更多关于插件的介绍请查看[**使用拓展应用**](12-extend)
 
@@ -73,11 +73,6 @@ Maxthon 提供了三种进入隐身模式的方式，分别为主菜单开启隐
 
 ![打开资源嗅探器](images/资源嗅探器.gif "=85%, 85%")
 
-### 侧边栏下线
-
-Maxthon6 下线了Maxthon5 中的侧边栏功能区，笔记和收藏仍然保留，网址收藏独立为书签页，可在书签管理(mx://bookmarks/) 页面中进行编辑。傲游笔记(mx://note/)仍然可以从主菜单按钮进入。侧边栏中的 RSS 订阅功能改为添加拓展程序支持。
-
-更多关于傲游笔记的功能请查看[**使用傲游笔记**](08-mxnote)
 
 ### 密码大师
 

@@ -10,9 +10,11 @@ Maxthon# 云同步与个性化设置
 
 ![](images/02-1.png "=85%,85%")
 
-<font color=#A30014>*注意①：如果您已经拥有一个傲游云账户，初次登录 Maxthon 时，会自动将 Maxthon5 中的数据导入新版Maxthon中，此时傲游云账户中同时存在 Maxthon 5 和新版 Maxthon 的数据，且互不影响。</font>
+<font color=#A30014>*注意①：如果您已经拥有一个傲游云账户，初次登录 Maxthon 时，会自动将 Maxthon5 中的数据导入新版 Maxthon中，此时傲游云账户中同时存在 Maxthon 5 和新版 Maxthon 的数据，且互不影响。</font>
 
-<font color=#A30014>*注意②：如果您在不同的终端同时使用Maxthon5和新版Maxthon，需要注意即使使用相同的云账户，但 Maxthon5 和新版 Maxthon 彼此数据并不互通。</font>
+<font color=#A30014>*注意②：如果您在不同的终端同时使用 Maxthon5和新版 Maxthon，需要注意即使使用相同的云账户，但 Maxthon5 和新版 Maxthon 彼此数据并不互通。</font>
+
+<font color=#A30014>*注意③：由于 Maxthon5 和新 Maxthon 使用的浏览器内核不同，Maxthon5 中的拓展程序和设置项不能同步至 新版。</font>
 
 登录傲游云账户后，在【设置/基本设置】的傲游云账户中，提供了针对不同情况的功能：
 
