@@ -89,15 +89,8 @@ The traditional Maxthon functions have been retained in the new Maxthon. Maxthon
 #### Resource sniffer
 
 **Use Resource Sniffer to collect media files from any webpage**
-In the early versions of Maxthon, the resource sniffer is turned off by default. It has changed in the latest ones. If your resource sniffer has been turned off and you need to use it, you can turn it back on by clicking the puzzle piece icon on the top right and open the add-on manager by clicking the cog icon at the bottom of the pop window.
-On any pages that you need to start your resource sniffer, you may type the shortcut keys you set, and refresh the webpage. You can reset the resource sniff shortcut keys in the add-ons manager > shortcuts.
-There is a guide below, you can make your changes by following the steps.
-![reource sniffer](images/sniffer.gif "= 85%, 85%")
+The resource sniffer is turned off by default.  If your resource sniffer has been turned off and you need to use it, you can turn it back on by clicking the Main menu icon on the top right and open the feature manager, enable the resouce sniffer in the pop out window.
 
-#### Sidebar offline
-
-To keep a simpler design, the sidebar has been taken off in Maxthon, and Maxnote is still retained. Your favorite websites' bookmarks are moved to an independent bookmark page (mx://bookmarks/) and showed on the bookmark bar on top of the browse window. Maxthon notes (mx://note/) can still be accessed from the main menu button. The RSS subscription function in the sidebar before is not available for now, you can install an extension instead.
-For more information about the functions of Maxthon notes, please go to [**Maxnote**](08-mxnote)
 
 #### Passkeeper
 
