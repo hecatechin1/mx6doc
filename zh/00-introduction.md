@@ -1,4 +1,4 @@
-Maxthon# 开始使用Maxthon
+# 开始使用Maxthon
 
 
 
