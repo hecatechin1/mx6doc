@@ -18,8 +18,8 @@ Maxthon 官方下载地址请访问：maxthon.cn
 
 如果您需要临时在其他电脑上使用 Maxthon，也可以使用便携版
 
-- 下载适合的 Maxthon 便携版版压缩包（https://www.maxthon.cn/mx6/download/）
-- 解压后，直接点击 Maxthon6.exe
+- 下载适合的 Maxthon 便携版版压缩包（https://www.maxthon.cn/download/）
+- 解压后，直接点击 Maxthon.exe
 
 <font color=#A30014>*注意：便携版本地数据保存在便携版的文件夹中，如未登录云账户，则文件夹删除后，数据不会回复。</font>
 
