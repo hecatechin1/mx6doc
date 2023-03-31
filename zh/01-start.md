@@ -1,10 +1,9 @@
-Maxthon
 
 # 开始使用 Maxthon
 
-## -下载和安装 Maxthon 
+## 下载和安装 Maxthon 
 
-#### <font color=#0062CC>-在Windows中安装 Maxthon</font>
+#### <font color=#0062CC>在Windows中安装 Maxthon</font>
 
 Maxthon 官方下载地址请访问：maxthon.cn
 
@@ -14,7 +13,7 @@ Maxthon 官方下载地址请访问：maxthon.cn
 
 点击【立即体验】，下载 Maxthon 安装包，下载时，系统会自动检测您的系统，并为您下载最合适的安装包，此外，您可也可以进入【更多选择】，选择其类型的安装包。最后点击下载好安装程序，选择【立即安装】，安装结束后即可进入 Maxthon
 
-#### <font color=#0062CC>-在Windows中使用 Maxthon 的便携版</font>
+#### <font color=#0062CC>在Windows中使用 Maxthon 的便携版</font>
 
 如果您需要临时在其他电脑上使用 Maxthon，也可以使用便携版
 
@@ -23,7 +22,7 @@ Maxthon 官方下载地址请访问：maxthon.cn
 
 <font color=#A30014>*注意：便携版本地数据保存在便携版的文件夹中，如未登录云账户，则文件夹删除后，数据不会回复。</font>
 
-#### <font color=#0062CC>-通过 Maxthon5 升级为新版 Maxthon </font>
+#### <font color=#0062CC>通过 Maxthon5 升级为新版 Maxthon </font>
 
 如果您在本地安装了 Maxthon5，可以直接升级 Maxthon5 至新版 Maxthon。
 
@@ -35,11 +34,11 @@ Maxthon 官方下载地址请访问：maxthon.cn
 
 
 
-## -登录Maxthon账户开启云数据同步
+## 登录Maxthon账户开启云数据同步
 
 使用 Maxthon 云账户，不仅可以保证您的私人数据安全不丢失，同时还能跨设备使用您的数据。
 
-#### <font color=#0062CC> -登录一个已有的Maxthon账户</font>
+#### <font color=#0062CC> 登录一个已有的Maxthon账户</font>
 
  您可以登录一个已有的 Maxthon 账户，在当前电脑延续您过往的使用体验。
 
@@ -47,7 +46,7 @@ Maxthon 官方下载地址请访问：maxthon.cn
 
 <font color=#A30014>注意：如果您是Maxthon 5 的老用户，初次使用新版 Maxthon 时,我们会复制您的历史数据，同时保留 Maxthon 5 数据的独立性。</font>
 
-#### <font color=#0062CC> -创建一个新的 Maxthon 云账户</font>
+#### <font color=#0062CC> 创建一个新的 Maxthon 云账户</font>
 
 如果您是 Maxthon 的新用户，您可以使用手机或邮箱注册一个新的账户，开启您的 Maxthon 体验。
 
@@ -55,7 +54,7 @@ Maxthon 官方下载地址请访问：maxthon.cn
 
 
 
-## -使用游客身份登录浏览器
+## 使用游客身份登录浏览器
 
 您也可以在登录页面选择【使用游客身份登录】，该状态下您的所有数据均保存在本地，不能跨设备使用，且部分功能将被禁用。
 
@@ -65,7 +64,7 @@ Maxthon 官方下载地址请访问：maxthon.cn
 
 
 
-## -导入本地数据
+## 导入本地数据
 
 如果您在本地有其他浏览器数据或Html文件，可直接导入 Maxthon 中使用。
 
@@ -76,7 +75,7 @@ Maxthon 官方下载地址请访问：maxthon.cn
 
 
 
-## -将 Maxthon 设置为默认浏览器
+## 将 Maxthon 设置为默认浏览器
 
 将 Maxthon 设置为默认浏览器，那么您点击任何链接或您设置好的打开文件格式，都会自动在Maxthon中打开。以Windows10为例：
 
@@ -95,7 +94,7 @@ Maxthon 官方下载地址请访问：maxthon.cn
 
 
 
-## -更新及卸载 Maxthon
+## 更新及卸载 Maxthon
 
 #### <font color=#0062CC> -Maxthon的更新</font>
 
@@ -109,7 +108,7 @@ Maxthon 官方下载地址请访问：maxthon.cn
   - 从不检测更新：设置为该选项后，系统不会为版本的更新提供任何帮助，您需要手动检查并手动更新。
 - Maxthon 每隔7~10天即推出一版Beta内测版，如果用户想提前体验并参与进 Maxthon 的内测中来，请勾选【同时更新Beta】，勾中该项目后，系统会升级至版本号最高的版本，无论是正式版还是Beta版。
 
-#### <font color=#0062CC> -Maxthon的卸载</font>
+#### <font color=#0062CC> Maxthon的卸载</font>
 
 - 您可以Win菜单中找到 Maxthon，然后点击鼠标右键，在弹出的选项中选择【卸载】即可完成卸载。
 - 您也可以打开控制面板，在【程序】中选择卸载程序，找到傲游浏览器，选择【卸载】即可。
