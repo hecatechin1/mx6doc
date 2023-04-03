@@ -9,5 +9,5 @@
 - Cutting technology
 
 [What's new](whatsnew.md)
-[User Manual](manual)
+[User Manual](00-introduction.md)
 
