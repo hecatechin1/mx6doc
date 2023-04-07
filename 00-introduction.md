@@ -47,11 +47,12 @@ Click on ![logo](images/00-9.png) to open Vbox, create your identity, apply for 
 ![logo](images/00-10.png)
 
 ## Customize the built-in features of the Maxthon Browser
-Maxthon Browser integrates built-in features and applications in the function management module. You can open the function management page and turn on/off various built-in features in the following ways:
-1. Click on the extension icon ![extensions](images/00-7.png), and select the function management in the lower left corner;
+Maxthon Browser integrates built-in features and applications in the feature management module. You can open the feature management page and turn on/off various built-in features in the following ways:
+1. Click on the extension icon ![extensions](images/00-7.png), and select the feature management in the lower left corner;
 2. Click on the main menu icon in the upper right corner ![menu](images/03-2.png), and select the function management.
 
 
 ![logo](images/00-11.png)
-On the function management page, you can turn on/off Vbox, screenshot, resource sniffer, night mode and other functions.
+On the feature management page, you can turn on/off Vbox, screenshot, resource sniffer, night mode and other functions.
+
 
